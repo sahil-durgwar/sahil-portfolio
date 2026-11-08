@@ -1,0 +1,4 @@
+/* Hide the hosting badge injected by Netlify. */
+#nl-badge-frame {
+  display: none !important;
+}
