@@ -1,12 +1,12 @@
 [
   {
-    "name": "NotyStack Android",
-    "desc": "Fully fledged android CRUD app based on different design patterns. Built using Java, XML, SQLite, Firebase, RoomDB, MVVM.",
-    "image": "notystackandroid",
-    "category": "android",
+    "name": "Job Seeker",
+    "desc": "Fully functional job seeker and resume creation web app & posting new jobs and aply for it.",
+    "image": "jobseekar",
+    "category": " ",
     "links": {
-      "view": "https://www.linkedin.com/posts/jigar-sable_androiddev-androidstudio-java-activity-6955224473822199808-JT0j",
-      "code": "https://github.com/jigar-sable/notystack-android"
+      "view": "https://jobresumeseeker.netlify.app/",
+      "code": " "
     }
   },
   {
